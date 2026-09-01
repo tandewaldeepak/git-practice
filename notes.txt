@@ -1,1 +1,3 @@
 My first Git project
+Learning Git step by step
+Learning Git step by step
